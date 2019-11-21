@@ -1,0 +1,9 @@
+-classpath 'C:\\Users\\JerryLee\\AppData\\Local\\Android\\Sdk\\platforms\\android-28\\android.jar'
+-d 'D:\\temp\\cocos2D_js\\aarDownload\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\docs\\javadoc'
+-doctitle 'hello_world 1.0.0 API'
+-quiet 
+-windowtitle 'hello_world 1.0.0 API'
+'D:\\temp\\cocos2D_js\\aarDownload\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\src\\org\\cocos2dx\\javascript\\AppActivity.java'
+'D:\\temp\\cocos2D_js\\aarDownload\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\src\\org\\cocos2dx\\javascript\\SDKWrapper.java'
+'D:\\temp\\cocos2D_js\\aarDownload\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\src\\org\\cocos2dx\\javascript\\service\\SDKClass.java'
+'D:\\temp\\cocos2D_js\\aarDownload\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\src\\org\\cocos2dx\\javascript\\service\\SDKInterface.java'
